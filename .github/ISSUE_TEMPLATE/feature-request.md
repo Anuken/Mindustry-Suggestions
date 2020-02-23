@@ -21,4 +21,3 @@ assignees: ''
 
 1. [X] I have done a quick search in the list of suggestions to make sure this has not been suggested yet.
 2. [X] I am familiar with all the content already in the game or have glanced at the wiki to make sure my suggestion doesn't exist in the game yet.
-
