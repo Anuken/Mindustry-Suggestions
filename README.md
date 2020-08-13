@@ -13,3 +13,4 @@ For bug reports, use the [Mindustry issue tracker](https://github.com/Anuken/Min
 - Item-liquid junctions
 - Controller support
 - Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills
+- Built-in cloud sync
