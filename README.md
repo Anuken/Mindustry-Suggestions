@@ -25,3 +25,4 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Controller support
 - Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills
 - Built-in cloud sync
+- Additional configuration of blocks (e.g. I/O side configuration, which has been suggested a million times)
