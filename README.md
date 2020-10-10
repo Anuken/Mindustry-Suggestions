@@ -1,11 +1,11 @@
 # Mindustry-Suggestions
-This is the repository for Mindustry suggestions and feedback. 
+This is the repository for Mindustry suggestions and feedback.
 
 For bug reports, use the [Mindustry issue tracker](https://github.com/Anuken/Mindustry/issues/new/choose).
 
 ## How do I know if you've read my suggestion?
 
-If it's been 24 hours, I've most likely read it. I check this repository daily. If I like it, I'll implemented it.  
+If it's been 24 hours, I've most likely read it. I check this repository daily. If I like it, I'll implement it.  
 *However*, If your request is in a language I don't understand and clearly doesn't follow the template, I am unlikely to bother reading it.
 
 ## I will no longer be commenting or closing issues here.
