@@ -1,5 +1,5 @@
 # Mindustry-Suggestions
-This is the repository for Mindustry suggestions and feedback.
+This is the repository for [Mindustry](https://github.com/Anuken/Mindustry) suggestions and feedback.
 
 For bug reports, use the [Mindustry issue tracker](https://github.com/Anuken/Mindustry/issues/new/choose).
 
@@ -10,7 +10,7 @@ If it's been 24 hours, I've most likely read it. I check this repository daily. 
 
 ## I will no longer be commenting or closing issues here.
 
-Manually closing invalid or completed requests is tiring. I'm not going to explain why I don't like your suggestion anymore - I just won't do anything. If I think it's good, you'll see it in the game soon enough, and it's your responsibility to close the issue if you so choose.  
+Manually closing invalid or completed requests is tiring. I'm not going to explain why I don't like your suggestion anymore - I just won't do anything. If I think it's good, you'll see it in the game soon enough, and it's your responsibility to close the issue if you so choose.
 
 In very rare cases, I may ask for clarifications or start a general discussion on an issue, but that's unlikely to happen to most things posted here.
 
