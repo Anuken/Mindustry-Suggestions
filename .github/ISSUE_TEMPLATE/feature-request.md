@@ -23,3 +23,4 @@ assignees: ''
 2. - [] I have checked the [Trello](https://trello.com/b/aE2tcUwF/mindustry-trello) to make sure my suggestion isn't planned or implemented in a development version.
 3. - [] I am familiar with all the content already in the game or have glanced at the wiki to make sure my suggestion doesn't exist in the game yet.
 4. - [] I have read `README.md` to make sure my idea is not listed under the "A few things you shouldn't suggest" category.
+5. - [] I have checked the in-game mod browser to make sure that my suggestion hasn't been implemented in a mod.
