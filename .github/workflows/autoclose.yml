@@ -1,0 +1,15 @@
+name: 'Close stale issues'
+on:
+  schedule:
+    - cron: "0 */5 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v3
+        with:
+          stale-issue-message: 'This suggestion is now stale, and will be automatically closed.'
+          days-before-stale: 20
+          days-before-close: 0
+          operations-per-run: 50
