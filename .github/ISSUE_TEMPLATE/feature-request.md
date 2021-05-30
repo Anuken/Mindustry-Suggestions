@@ -15,7 +15,7 @@ assignees: ''
 
 
 
-**Before making this issue, place an `X` in the boxes below to confirm that you have acknowledged them.** *Failure to do so may result in your request being closed automatically.*
+**Before making this issue, place an `X` in the boxes below to confirm that you have acknowledged them.** *Failure to do so may result in your request being closed automatically. And then I will reap your soul.*
 
 
 
