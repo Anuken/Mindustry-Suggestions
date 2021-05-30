@@ -14,4 +14,3 @@ jobs:
           days-before-stale: 20
           days-before-close: 0
           operations-per-run: 30
-          ascending: true
