@@ -13,5 +13,5 @@ jobs:
           stale-issue-message: 'This suggestion is now stale, and will be automatically closed.'
           days-before-stale: 20
           days-before-close: 0
-          operations-per-run: 400
+          operations-per-run: 30
           ascending: true
