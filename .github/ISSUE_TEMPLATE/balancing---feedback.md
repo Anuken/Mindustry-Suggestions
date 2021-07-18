@@ -1,6 +1,6 @@
 ---
 name: Balancing & Feedback
-about: Provide balance suggestions or feedback on existing features
+about: Provide balance suggestions or feedback on existing features. Read the read me before proceeding.
 title: ''
 labels: balancing/feedback
 assignees: ''
