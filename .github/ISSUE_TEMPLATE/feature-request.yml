@@ -26,5 +26,5 @@ body:
           required: true
         - label: I am familiar with all the content already in the game or have glanced at the wiki to make sure my suggestion doesn't exist in the game yet.
           required: true
-        - label: I have read `README.md` to make sure my idea is not listed under the "A few things you shouldn't suggest" category.
+        - label: I have read [README.md](https://github.com/Anuken/Mindustry-Suggestions/blob/master/README.md) to make sure my idea is not listed under the "A few things you shouldn't suggest" category.
           required: true
