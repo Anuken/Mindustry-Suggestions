@@ -1,0 +1,19 @@
+name: Balancing & Feedback
+description: Provide balance suggestions or feedback on existing features
+title: "Title"
+labels: [balancing/feedback]
+assignees:
+  - Anuken
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe what you would like changed, and why."
+    validations:
+      required: true
+  - type: textarea
+    id: description2
+    attributes:
+      label: "Describe the changes you want to propose. Include possible alternatives."
+    validations:
+      required: true
