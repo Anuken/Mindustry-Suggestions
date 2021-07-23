@@ -2,8 +2,6 @@ name: Balancing & Feedback
 description: Provide balance suggestions or feedback on existing features
 title: "Title"
 labels: [balancing/feedback]
-assignees:
-  - Anuken
 body:
   - type: textarea
     id: description
