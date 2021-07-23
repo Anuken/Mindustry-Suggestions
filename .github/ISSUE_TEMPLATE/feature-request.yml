@@ -2,8 +2,6 @@ name: Feature Request
 description: Suggest new content or mechanics for Mindustry
 title: "Title"
 labels: [feature request]
-assignees:
-  - Anuken
 body:
   - type: textarea
     id: description
