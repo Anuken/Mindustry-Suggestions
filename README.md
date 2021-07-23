@@ -27,3 +27,8 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Built-in cloud sync
 - Additional configuration of blocks, such as I/O side configuration, which has been suggested a million times
 - Removing metaglass from the water extractor recipe
+
+## Be civil please
+
+Don't be toxic to people just because they said something you don't like.
+"MODS" IS NOT AN ANSWER.
