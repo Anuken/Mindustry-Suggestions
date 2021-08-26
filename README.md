@@ -28,3 +28,4 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Additional configuration of blocks, such as I/O side configuration
 - Removing metaglass from the water extractor recipe
 - Carrying aircraft with naval units
+- Preview of unit spawn locations, paths or waves
