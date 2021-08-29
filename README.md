@@ -29,3 +29,4 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Removing metaglass from the water extractor recipe
 - Carrying aircraft with naval units
 - Preview of unit spawn locations, paths or waves
+- More resources. (Thats what mods are for, dummies)
