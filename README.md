@@ -29,3 +29,4 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Removing metaglass from the water extractor recipe
 - Carrying aircraft with naval units
 - Preview of unit spawn locations, paths or waves
+- Any sort of string manipulation in logic (reading from message blocks, reading characters, splitting strings, etc)
