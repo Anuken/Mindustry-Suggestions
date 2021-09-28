@@ -18,7 +18,7 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 ##### These have been proposed many times already, and I won't be adding them.
 
 - Mechanics that increase game speed (fast-forward)
-- Teleporters
+- Teleporters or similar behaviors/mechanics/blocks that achieve mass item transportation between two locations "instantly", such as sorter + overflows
 - Underground map layers
 - Trains, or any transportation system that uses something analogous to rails
 - Item-liquid junctions
