@@ -33,3 +33,4 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Allied teams
 - Bringing back overflow-sorter chaining
 - Anything involving bringing back the old command system
+- M1 mac support (I do not have one, and I am not spending $1000 on a laptop I won't use for anything else)
