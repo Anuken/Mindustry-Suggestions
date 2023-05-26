@@ -24,6 +24,7 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Item-liquid junctions
 - Controller support
 - Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills
+- Making items into another item only usable by turrets
 - Built-in cloud sync
 - Additional configuration of blocks, such as I/O side configuration
 - Removing metaglass from the water extractor recipe
