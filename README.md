@@ -5,8 +5,20 @@ For bug reports, use the [Mindustry issue tracker](https://github.com/Anuken/Min
 
 ## How do I know if you've read my suggestion?
 
-If it's been 24 hours, I've most likely read it. I check this repository daily. If I like it, I'll implement it.  
-*However*, If your request is in a language I don't understand and clearly doesn't follow the template, I am unlikely to bother reading it.
+If it's been two days, I've most likely read it. I check this repository regularly - **yes, really**. It is not just a dump of issues that never get read. If I like something, I'll implement it.  
+
+## Why I haven't implemented your suggestion yet
+
+Because most suggestions are bad. The overwhelming majority are rejected because they fall into one (or more) of the categories below:
+
+- It's too niche or not sufficiently useful to warrant adding to the game.
+- It is infeasible to implement or not worth the effort.
+- It's just a bad idea and would negatively impact the game.
+- It's *not* a bad idea, but I don't have time to implement it or have different priorities.
+- It's one of the things I have explicitly mentioned in the list at the end.
+- It's already in the game and you didn't notice.
+- It is written in a language I don't understand.
+- It is incomprehensible or poorly written.
 
 ## I will no longer be commenting or closing issues here.
 
@@ -18,6 +30,7 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 ##### These have been proposed many times already, and I won't be adding them.
 
 - Mechanics that increase game speed (fast-forward)
+- New planets
 - Teleporters
 - Underground map layers
 - Trains, or any transportation system that uses something analogous to rails
@@ -25,10 +38,12 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Controller support
 - Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills
 - Built-in cloud sync
+- Any kind of account system
 - Additional configuration of blocks, such as I/O side configuration
+- Configuring drill outputs or selecting which resource to mine
 - Removing metaglass from the water extractor recipe
 - Carrying aircraft with naval units
-- Preview of unit spawn locations, paths or waves
+- Preview of unit paths or waves
 - Any sort of string manipulation in logic (reading from message blocks, reading characters, splitting strings, etc)
 - Allied teams
 - Bringing back overflow-sorter chaining
