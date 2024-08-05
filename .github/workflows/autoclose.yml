@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: actions/stale@v3
         with:
+          exempt-issue-labels: "candidate"
           stale-issue-message: 'This suggestion is now stale, and will be automatically closed.'
           days-before-stale: 20
           days-before-close: 0
