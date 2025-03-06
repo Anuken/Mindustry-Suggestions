@@ -5,7 +5,9 @@ For bug reports, use the [Mindustry issue tracker](https://github.com/Anuken/Min
 
 ## How do I know if you've read my suggestion?
 
-If it's been two days, I've most likely read it. I check this repository regularly - **yes, really**. It is not just a dump of issues that never get read. If I like something, I'll implement it.  
+If it's been two days, I've most likely read it. I check this repository regularly - **yes, really**. It is not just a dump of issues that never get read. If I like something, I'll implement it. 
+
+Some assume that, because I am not commenting on every suggestion detailing *why* I will not implement something, I am not reading these issues - *this is not the case*.  
 
 ## Why I haven't implemented your suggestion yet
 
@@ -14,7 +16,7 @@ Because most suggestions are bad. The overwhelming majority are rejected because
 - It's too niche or not sufficiently useful to warrant adding to the game.
 - It is infeasible to implement or not worth the effort.
 - It's just a bad idea and would negatively impact the game.
-- It's *not* a bad idea, but I don't have time to implement it or have different priorities.
+- It's *not* a bad idea, but I don't have time to implement it or have different priorities - usually, suggestions like this get the "candidate" tag.
 - It's one of the things I have explicitly mentioned in the list at the end.
 - It's already in the game and you didn't notice.
 - It is written in a language I don't understand.
