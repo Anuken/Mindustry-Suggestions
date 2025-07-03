@@ -46,7 +46,7 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Removing metaglass from the water extractor recipe
 - Carrying aircraft with naval units
 - Preview of unit paths or waves
-- Any sort of string manipulation in logic (reading from message blocks, reading characters, splitting strings, etc)
+- Any sort of string manipulation in logic (splitting strings, joining strings, etc)
 - Allied teams
 - Bringing back overflow-sorter chaining
 - Anything involving bringing back the old command system
