@@ -3,6 +3,10 @@ This is the repository for [Mindustry](https://github.com/Anuken/Mindustry) sugg
 
 For bug reports, use the [Mindustry issue tracker](https://github.com/Anuken/Mindustry/issues/new/choose).
 
+## Etiquette
+
+Keep conversation here respectful, **even if you feel like someone is being ignorant.** If you need to point out that someone missed a feature or doesn't know how something works, you are free to remind them of that in a reply, but **keep it polite**, or at least neutral. This is not a place to insult people. If you really think a suggestion is completely worthless, leave a 👎 reaction, and move on with your day - you are not helping anyone by leaving snarky comments.
+
 ## How do I know if you've read my suggestion?
 
 If it's been two days, I've most likely read it. I check this repository regularly - **yes, really**. It is not just a dump of issues that never get read. If I like something, I'll implement it. 
@@ -37,16 +41,15 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Underground map layers
 - Trains, or any transportation system that uses something analogous to rails
 - Item-liquid junctions
-- Controller support
+- Controller support (*this has already been attempted and does not work well with Mindustry*)
 - Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills
 - Built-in cloud sync
 - Any kind of account system
 - Additional configuration of blocks, such as I/O side configuration
 - Configuring drill outputs or selecting which resource to mine
-- Removing metaglass from the water extractor recipe
 - Carrying aircraft with naval units
 - Preview of unit paths or waves
-- Any sort of string manipulation in logic (reading from message blocks, reading characters, splitting strings, etc)
+- Any sort of string allocation in logic - copying strings to variables, splitting strings, etc
 - Allied teams
 - Bringing back overflow-sorter chaining
-- Anything involving bringing back the old command system
+- Anything involving bringing back the old formation command system
