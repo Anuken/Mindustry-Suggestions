@@ -53,3 +53,4 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 - Allied teams
 - Bringing back overflow-sorter chaining
 - Anything involving bringing back the old formation command system
+- Anything involving readding the old sound effects from versions beta 153 or older
