@@ -35,6 +35,7 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 ## A few things you shouldn't suggest
 ##### These have been proposed many times already, and I won't be adding them.
 
+- Bringing back the old sounds from v7
 - Mechanics that increase game speed (fast-forward)
 - New planets
 - Teleporters
