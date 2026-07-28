@@ -35,6 +35,7 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 ## A few things you shouldn't suggest
 ##### These have been proposed many times already, and I won't be adding them.
 
+- Wayland support (it's [very](https://github.com/Anuken/Mindustry/issues/11657#issuecomment-3892489405) [very](https://github.com/libsdl-org/SDL/issues/13763) [broken](https://github.com/libsdl-org/SDL/issues/11972#issuecomment-2593183645) and there's nothing I can do about it, stop being pretentious and use xwayland)
 - Bringing back the old sounds from v7
 - Mechanics that increase game speed (fast-forward)
 - New planets
