@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: "Describe what you would like changed, and why."
+      label: "Describe what part of the game needs improvement, and why."
     validations:
       required: true
   - type: textarea
